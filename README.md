@@ -5,7 +5,7 @@
 
 ***About me***
 
-I am a graduate in Computer Science Engineering from Duoc UC, focused on continuously learning and expanding my knowledge in software development. I am passionate about building innovative, productive, and creative solutions, always seeking to improve my skills and explore new technologies.
+I am a graduate in Computer Science Engineering from DuocUC, focused on continuously learning and expanding my knowledge in software development. I am passionate about building innovative, productive, and creative solutions, always seeking to improve my skills and explore new technologies.
 
 -  I’m currently learning ...
   - Ionic
